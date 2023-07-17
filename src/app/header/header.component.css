@@ -1,0 +1,13 @@
+header {
+  height: 52px;
+  background-color: white;
+  padding-top: 4px;
+}
+
+.logo {
+  height: 30px;
+  max-width: 280px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 9px 150px;
+}
