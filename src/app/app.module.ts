@@ -9,12 +9,14 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { ApplyComponent } from './card/apply/apply.component';
 import { HeaderComponent } from './header/header.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ApplyComponent,
     HeaderComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
