@@ -1,0 +1,10 @@
+footer,
+.footer-a {
+  background: #e6e6e5;
+}
+
+footer img {
+  display: block;
+  margin: 0 auto;
+  padding: 12px;
+}
